@@ -1,0 +1,23 @@
+
+{
+    "products": [
+      {"name": "Product A", "category": "Category 1", "quantitySold": 30, "salesAmount": 300},
+      {"name": "Product B", "category": "Category 2", "quantitySold": 20, "salesAmount": 200},
+      {"name": "Product C", "category": "Category 1", "quantitySold": 50, "salesAmount": 500},
+      {"name": "Product D", "category": "Category 3", "quantitySold": 10, "salesAmount": 100},
+      {"name": "Product E", "category": "Category 4", "quantitySold": 10, "salesAmount": 100},
+      {"name": "Product F", "category": "Category 3", "quantitySold": 10, "salesAmount": 100},
+      {"name": "Product G", "category": "Category 5", "quantitySold": 100, "salesAmount": 200},
+      {"name": "Product H", "category": "Category 6", "quantitySold": 10, "salesAmount": 100},
+      {"name": "Product I", "category": "Category 4", "quantitySold": 40, "salesAmount": 700},
+      {"name": "Product J", "category": "Category 6", "quantitySold": 10, "salesAmount": 100},
+      {"name": "Product K", "category": "Category 3", "quantitySold": 60, "salesAmount": 100},
+      {"name": "Product L", "category": "Category 7", "quantitySold": 10, "salesAmount": 400},
+      {"name": "Product M", "category": "Category 5", "quantitySold": 40, "salesAmount": 100},
+      {"name": "Product N", "category": "Category 2", "quantitySold": 10, "salesAmount": 300},
+      {"name": "Product O", "category": "Category 7", "quantitySold": 20, "salesAmount": 900},
+      {"name": "Product P", "category": "Category 8", "quantitySold": 15, "salesAmount": 500},
+      {"name": "Product Q", "category": "Category 3", "quantitySold": 10, "salesAmount": 700}
+    ]
+  }
+  

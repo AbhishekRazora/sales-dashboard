@@ -1,0 +1,11 @@
+{
+    "date1": "2024-08-10",
+    "date2": "2024-08-11",
+    "sales": [
+      {"name": "Product A", "category": "Category 1", "date1Sales": 250, "date2Sales": 300},
+      {"name": "Product B", "category": "Category 2", "date1Sales": 150, "date2Sales": 200},
+      {"name": "Product C", "category": "Category 1", "date1Sales": 400, "date2Sales": 500},
+      {"name": "Product D", "category": "Category 3", "date1Sales": 80, "date2Sales": 100}
+    ]
+  }
+  
